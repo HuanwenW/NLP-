@@ -22,11 +22,10 @@
 ![image](https://github.com/HuanwenW/MyPostImag/blob/master/190406-markDown/MD-Pic-4.png?raw=true)  
 (3) 发现原来的文件中出现 **MyPostImag**文件夹  
 ![image](https://github.com/HuanwenW/MyPostImag/blob/master/190406-markDown/MD-Pic-5.jpg?raw=true)  
-**第三步：** 在克隆到本地的文件夹中建立一个文件夹--190406-markDown(名字自己取) ：   
+**第三步：** 在克隆到本地的文件夹中建立一个文件夹--**190406-markDown**(名字自己取) ：   
 ![image](https://github.com/HuanwenW/MyPostImag/blob/master/190406-markDown/MD-Pic-6.jpg?raw=true)  
-**第四步：** 把你要用的图片存到文件夹里.   
-
- **第五步：** 把更改push到Github仓库：  
+**第四步：** 把你要用的图片存到文件夹**190406-markDown**里。  
+**第五步：** 把更改push到Github仓库：  
  （1） 输入 " git init "，作用是项目里面会创建一个隐藏的.git文件，执行结果如下：
  ![image](https://github.com/HuanwenW/MyPostImag/blob/master/190406-markDown/MD-Pic-7.jpg?raw=true)    
  （2） 输入 " git add . ", 这个是将项目上所有的文件添加到仓库中的意思，如果想添加某个特定的文件，只需把' . '换成这个特定的文件名即可。  
@@ -35,10 +34,10 @@
  ![image](https://github.com/HuanwenW/MyPostImag/blob/master/190406-markDown/MD-Pic-9.png?raw=true)  
  （4） 输入 "git remote add origin https://刚才建立的仓库地址（第一步中提到的）"  将本地的仓库关联到github上。
  ![image](https://github.com/HuanwenW/MyPostImag/blob/master/190406-markDown/MD-Pic-10.png?raw=true)   
- （5） 输入 "git push -u origin master "，这是把代码上传到github仓库的意思。  
- ![image](https://github.com/HuanwenW/MyPostImag/blob/master/190406-markDown/MD-Pic-11.png?raw=true) 
+ （5） 输入 "git push -u origin master "，这是把代码上传到github仓库的意思。    
+ ![image](https://github.com/HuanwenW/MyPostImag/blob/master/190406-markDown/MD-Pic-11.png?raw=true)     
  （6） 刷新github页面，发现本地新建文件已经出现：
- ![image](https://github.com/HuanwenW/MyPostImag/blob/master/190406-markDown/MD-Pic-12.png?raw=true) 
+ ![image](https://github.com/HuanwenW/MyPostImag/blob/master/190406-markDown/MD-Pic-12.png?raw=true)   
 
 2. **图片生成URL篇**  
 （1）打开 **190406-markDown** 文件夹，双击你需要的图片进入到下面界面：
