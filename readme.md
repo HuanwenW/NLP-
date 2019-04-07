@@ -45,13 +45,14 @@
 4. **Tensorflow 库安装与学习**
 - **Tensorflow 库安装**
 TensorFlow的安装有GPU和CPU两个不同版本，我的GPU不行，所以我安装的是 **CPU** 的版本。采用的输入Shell指令进行安装。  
-**第一步：** CPU版：    
+**第一步：** 切换到命令窗口
+CPU版：    
 
-> pip3 install --upgrade https://storage.googleapis.com/tensorflow/windows/cpu/tensorflow-0.12.0-cp35-cp35m-win_amd64.whl
+ pip3 install --upgrade https://storage.googleapis.com/tensorflow/windows/cpu/tensorflow-0.12.0-cp35-cp35m-win_amd64.whl
 
 **第二步：** 更新，安装成功之后的TensorFlow的版本是0.12的，所以进行更新：
 
-> pip3 install tensorflow   
+ pip3 install tensorflow   
 
 **第三步：** 测试TensorFlow
 
