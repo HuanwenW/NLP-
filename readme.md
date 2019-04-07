@@ -36,11 +36,11 @@
      > pip install  jupyter  
      
    **第二步：** 输入jupyter   notebook  即可自动弹出一个网页版编辑器  
-    ![image](https://github.com/HuanwenW/MyPostImag/blob/master/007-picture/jupyter-1.png)  
+    ![image](https://github.com/HuanwenW/MyPostImag/blob/master/007-picture/jupyter-1.png?raw=true)  
    **第三步：** 在打开的浏览器界面，在new下拉框中选择python3  
-    ![image](https://github.com/HuanwenW/MyPostImag/blob/master/007-picture/jupyter-2.png)   
+    ![image](https://github.com/HuanwenW/MyPostImag/blob/master/007-picture/jupyter-2.png?raw=true)   
    **第四步：** 进入以下页面即可进行编写  
-    ![image](https://github.com/HuanwenW/MyPostImag/blob/master/007-picture/jupyter-3.png)    
+    ![image](https://github.com/HuanwenW/MyPostImag/blob/master/007-picture/jupyter-3.png?raw=true)    
     
 4. **Tensorflow 库安装与学习**
 - **Tensorflow 库安装**
