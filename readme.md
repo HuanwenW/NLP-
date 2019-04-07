@@ -68,7 +68,7 @@ TensorFlow的安装有GPU和CPU两个不同版本，我的GPU不行，所以我�
     
  运行结果：  
  
- ![image](https://github.com/HuanwenW/MyPostImag/blob/master/007-picture/tensorflow-1.jpg)
+ ![image](https://github.com/HuanwenW/MyPostImag/blob/master/007-picture/tensorflow-1.jpg?raw=true)
 
 - **Tensorflow学习入门笔记很不错，详见参考教程10**
 
