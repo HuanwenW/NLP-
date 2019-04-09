@@ -30,16 +30,27 @@
 
 **2.3 数据分析**  
 
-| 指标           | 描述           | Scikit-learn函数  |  
-|:-------------: |:-------------:| :-----:|  
-| Precision      | right-aligned | $1600 |  
-| Recall      | centered      |   $12 |  
-| F1 | are neat      |    $1 |  
-| Confusion Matrix| are neat      |    $1 | 
-| ROC| are neat      |    $1 | 
-| AUC| are neat      |    $1 | 
-### 3. 分类模型和回归模型评估指标  
 
+### 3. 分类模型和回归模型评估指标    
+
+- **分类模型评估**   
+
+| 指标           | 描述           | Scikit-learn函数  |  
+|:-------------: |:-------------:| :-----|   
+| Precision | 精准度 | from sklearn.metrics import precision_score | 
+| Recall | 	召回率  | from sklearn.metrics import recall_score |  
+| F1 | F1值    |    from sklearn.metrics import f1_score |  
+| Confusion Matrix | 	混淆矩阵 | from sklearn.metrics import confusion_matrix | 
+| ROC | 	ROC曲线 |  from sklearn.metrics import roc |  
+| AUC | ROC曲线下的面积 |  from sklearn.metrics import auc |   
+
+- **回归模型评估**   
+
+| 指标           | 描述           | Scikit-learn函数  |  
+|:-------------: |:-------------:| :-----| 
+| Mean Square Error (MSE, RMSE) | 平均方差 | from sklearn.metrics import mean_squared_error | 
+| Absolute Error (MAE, RAE) | 	绝对误差  | 	from sklearn.metrics import mean_absolute_error, median_absolute_error|  
+| R-Squared | R平方值   |    from sklearn.metrics import r2_score |   
 
 
 ## 参考博客
